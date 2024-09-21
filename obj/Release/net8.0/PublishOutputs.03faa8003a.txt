@@ -1,5 +1,4 @@
 D:\workroom\000-KRU\2567\1-2567\Cloud\prep-week07\DotNetMVCEFCodeSQLite\bin\Release\net8.0\publish\DotNetMVCEFCodeSQLite.exe
-D:\workroom\000-KRU\2567\1-2567\Cloud\prep-week07\DotNetMVCEFCodeSQLite\bin\Release\net8.0\publish\appsettings.Development.json
 D:\workroom\000-KRU\2567\1-2567\Cloud\prep-week07\DotNetMVCEFCodeSQLite\bin\Release\net8.0\publish\appsettings.json
 D:\workroom\000-KRU\2567\1-2567\Cloud\prep-week07\DotNetMVCEFCodeSQLite\bin\Release\net8.0\publish\DotNetMVCEFCodeSQLite.dll
 D:\workroom\000-KRU\2567\1-2567\Cloud\prep-week07\DotNetMVCEFCodeSQLite\bin\Release\net8.0\publish\DotNetMVCEFCodeSQLite.runtimeconfig.json
