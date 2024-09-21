@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetMVCEFCodeSQLite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b048c3ed82dd4abe57a60a1f7171e2b8ae90b5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43fc4dc1564d80c5e6d2d590fe336ffa1db75615")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetMVCEFCodeSQLite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetMVCEFCodeSQLite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
