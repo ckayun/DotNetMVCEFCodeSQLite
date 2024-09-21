@@ -2606,11 +2606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workroom\\LearnASP.NETCore\\MVC\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite.csproj",
+      "projectUniqueName": "D:\\workroom\\000-KRU\\2567\\1-2567\\Cloud\\prep-week07\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite.csproj",
       "projectName": "DotNetMVCEFCodeSQLite",
-      "projectPath": "D:\\workroom\\LearnASP.NETCore\\MVC\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite.csproj",
+      "projectPath": "D:\\workroom\\000-KRU\\2567\\1-2567\\Cloud\\prep-week07\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite.csproj",
       "packagesPath": "D:\\Users\\kayun\\.nuget\\packages\\",
-      "outputPath": "D:\\workroom\\LearnASP.NETCore\\MVC\\DotNetMVCEFCodeSQLite\\DotNetMVCEFCodeSQLite\\obj\\",
+      "outputPath": "D:\\workroom\\000-KRU\\2567\\1-2567\\Cloud\\prep-week07\\DotNetMVCEFCodeSQLite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
